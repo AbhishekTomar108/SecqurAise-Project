@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SecqurAise-Project/static/css/main.3e2abd4f.css",
+    "main.js": "/SecqurAise-Project/static/js/main.d66bb322.js",
+    "static/js/787.ded0eb13.chunk.js": "/SecqurAise-Project/static/js/787.ded0eb13.chunk.js",
+    "static/media/Female05.jpg": "/SecqurAise-Project/static/media/Female05.e1f06b1b990b9fd5ac31.jpg",
+    "index.html": "/SecqurAise-Project/index.html",
+    "main.3e2abd4f.css.map": "/SecqurAise-Project/static/css/main.3e2abd4f.css.map",
+    "main.d66bb322.js.map": "/SecqurAise-Project/static/js/main.d66bb322.js.map",
+    "787.ded0eb13.chunk.js.map": "/SecqurAise-Project/static/js/787.ded0eb13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2abd4f.css",
+    "static/js/main.d66bb322.js"
+  ]
+}
