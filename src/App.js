@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import Container from "./component/Container";
+import "./style/style.css"
+import NumberState from "./context/NumberState.js"
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NumberState>
+    <Container/>
+    </NumberState>
     </div>
   );
 }
